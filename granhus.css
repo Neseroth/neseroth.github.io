@@ -13,8 +13,8 @@ html, body {
   .content {
     position: fixed;
     bottom: 0;
-    left: 80%;
-    width: 100%;
+    left: 50%;
+    width: 100%; 
   }
 
   div.a {
